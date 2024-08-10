@@ -1,4 +1,5 @@
 <?php
 
-require __DIR__ . '/../public/index.php';
-?>
+require __DIR__ . '/web_resume2/public/index.php';
+
+
