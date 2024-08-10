@@ -24,7 +24,7 @@
         </aside>
     <main class="content">
         <header>
-        <img src="image/1.jpg" alt="image" class="image">
+        <img src="/public/image/1.jpg" alt="image" class="image">
             <h1><?php echo $name; ?></h1>
             
         </header>
