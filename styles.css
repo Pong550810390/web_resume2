@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+    background-size: cover;
+    background-image: url(https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?cs=srgb&dl=pexels-bess-hamiti-83687-36487.jpg&fm=jpg);
+    display: flex;
+    font-size: 20px;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    
+}
+.sidebar {
+    width: 12%;
+    padding: 12px;
+    position: fixed; 
+    height: 100vh; 
+    background-image: url(https://e0.pxfuel.com/wallpapers/543/607/desktop-wallpaper-1080%C3%971920-1080x1920-vertical.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.sidebar nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar nav ul li {
+    margin-bottom: 20px;
+}
+
+.sidebar nav ul li a {
+    text-decoration: none;
+    color: #f8f8f8;
+    font-weight: bold;
+    padding:  10px;
+    font-size: 45px;
+}
+
+.sidebar nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    margin-left: 15%;
+    width: 70%;
+    padding: 10px;
+    overflow-y: auto;
+    color: #ffffff;
+    font-size: 35px;
+    
+}
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+header h1 {
+    margin: 0;
+}
+header .image {
+    width: 450px;
+    height: 450px;
+    border-radius: 40%;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+section {
+    margin-bottom: 30px;
+}
+section h2 {
+    border-bottom: 5px solid #ffffff;
+    padding-bottom: 5px;
+    text-size-adjust: 30 px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+.education-section {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+.education-image {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-right: 20px;
+    object-fit: cover;
+}
