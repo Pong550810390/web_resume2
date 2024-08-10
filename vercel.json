@@ -14,8 +14,8 @@
         "dest": "/public/styles.css"
       },
       {
-        "src": "/1.jpg",
-        "dest": "/public/1.jpg"
+        "src": "/img/1.png",
+        "dest": "/public/img/1.png"
       },
       {
          "src": "/(.*)",
