@@ -25,13 +25,13 @@ $activity = [
 ];
 
 $education = [
-    [   'image' => 'image/3.png',
+    [   'image' => 'img/3.png',
         'degree' => 'Bachelor of Science in Computer Science',
         'school' => 'Chiang Mai Rajabhat University',
         'date' => ' 2564 - current'
     ],
     [   
-        'image' => 'image/4.png',
+        'image' => 'img/2.png',
         'degree' => 'High School ',
         'school' => 'Chiang Klang School "Prachapatthana"',
         'date' => ' 2561 - 2564'

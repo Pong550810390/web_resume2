@@ -18,6 +18,14 @@
         "dest": "/public/img/1.png"
       },
       {
+        "src": "/img/2.png",
+        "dest": "/public/img/2.png"
+      },
+      {
+        "src": "/img/3.png",
+        "dest": "/public/img/3.png"
+      },
+      {
          "src": "/(.*)",
          "dest": "/api/index.php"
       }
